@@ -2,7 +2,7 @@ title: informatiCup2017
 description: GitHub Repository Classifier
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 
 gems:
   - jekyll-mentions
