@@ -1,5 +1,8 @@
-![image](https://cloud.githubusercontent.com/assets/1872314/19116242/0b21b234-8b15-11e6-9a0d-fdb82983fb17.png)
+![image](https://cloud.githubusercontent.com/assets/1872314/23314702/5e94ac00-fac3-11e6-894d-bfd9f48c58d1.png)
 
+# 🎉 Willkommen zu den TdWuk 🎉 
+
+![](https://camo.githubusercontent.com/f08021a3c40652e932c61ab2b4a004f3a57b8ff7/687474703a2f2f7261636b2e322e6d736863646e2e636f6d2f6d656469612f5a676b794d44457a4c7a41344c7a41314c7a59794c32467559326876636d3168626934324e6a4a6b5953356e6157594b63416c306148567459676b344e5442344f4455775067706c435770775a772f65333664313462642f3163302f616e63686f726d616e2e6a7067)
 # informatiCup2017 - GitHub Repository Classifier
 
 This year, the [German Association for Computer Science](https://en.gi.de/startpage.html) is hosting [informatiCup](http://www.informaticup.de) - a computer science competition for students - the twelfth time.
